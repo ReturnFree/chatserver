@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/chatserver.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/chatserver.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/chatserver.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/chatserver.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/chatservice.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/chatservice.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/chatservice.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/chatservice.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/friendmodel.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/friendmodel.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/friendmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/friendmodel.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/groupmodel.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/groupmodel.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/groupmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/groupmodel.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/main.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/main.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/main.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/main.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/offlinemsgmodel.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/offlinemsgmodel.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/offlinemsgmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/offlinemsgmodel.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/redis.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/redis.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/redis.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/redis.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/db/db.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/db/db.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/db/db.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/db/db.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/server",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatServer14.dir/model/usermodel.cpp.o -c /home/liudi/vscode/chatRoom2/src/server/model/usermodel.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/server/model/usermodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer14.dir/model/usermodel.cpp.o"
+},
+{
+  "directory": "/home/liudi/vscode/chatRoom2/build/src/client",
+  "command": "/usr/bin/g++  -I/home/liudi/vscode/chatRoom2/include -I/home/liudi/vscode/chatRoom2/include/server -I/home/liudi/vscode/chatRoom2/include/server/db -I/home/liudi/vscode/chatRoom2/include/server/model -I/home/liudi/vscode/chatRoom2/thirdparty -std=c++11 -g -g -o CMakeFiles/ChatClient14.dir/main.cpp.o -c /home/liudi/vscode/chatRoom2/src/client/main.cpp",
+  "file": "/home/liudi/vscode/chatRoom2/src/client/main.cpp",
+  "output": "src/client/CMakeFiles/ChatClient14.dir/main.cpp.o"
+}
+]

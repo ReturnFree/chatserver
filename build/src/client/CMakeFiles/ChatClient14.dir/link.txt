@@ -1,0 +1,1 @@
+/usr/bin/g++ -std=c++11 -g -g -rdynamic CMakeFiles/ChatClient14.dir/main.cpp.o -o /home/liudi/vscode/chatRoom2/bin/ChatClient14   -L/usr/lib64/mysql  -Wl,-rpath,/usr/lib64/mysql -lmuduo_net -lmuduo_base -lmysqlclient -lhiredis -lpthread 
